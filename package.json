@@ -1,0 +1,22 @@
+{
+  "name": "practicas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angulo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majoromeror/practicas-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majoromeror/practicas-js/issues"
+  },
+  "homepage": "https://github.com/majoromeror/practicas-js#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
